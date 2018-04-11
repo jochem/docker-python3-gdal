@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:rc
 MAINTAINER Jochem Oosterveen <jochem@oosterveen.net>
 
 RUN apt-get update
