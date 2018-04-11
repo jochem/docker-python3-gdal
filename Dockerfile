@@ -1,4 +1,4 @@
-FROM python:rc
+FROM python:3.5
 MAINTAINER Jochem Oosterveen <jochem@oosterveen.net>
 
 RUN apt-get update
